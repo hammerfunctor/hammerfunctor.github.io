@@ -5,7 +5,7 @@ subtitle:
 date:       2020-04-25
 author:     Huzf
 header-img: img/post-bg-2020-04-25.jpg
-catelog:    false
+catelog:    true
 tags:
     -       Blog
 ---
