@@ -4,7 +4,7 @@ title:      过去一年关于自旋轨道耦合的工作总结
 subtitle:
 date:       2020-04-25
 author:     Huzf
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-2020-04-25.jpg
 catelog:    false
 tags:
     -       Blog
