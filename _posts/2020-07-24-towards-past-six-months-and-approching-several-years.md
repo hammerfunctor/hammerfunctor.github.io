@@ -4,7 +4,7 @@ title:      因为国际政治而想到的一些事
 subtitle:
 date:       2020-07-24
 author:     Huzf
-header-img: img/post-bg-2020-07-24-k-surfing-1.png
+header-img: img/post-bg-2020-07-24.jpg
 catelog:    true
 tags:
     -       Memoirs
