@@ -1,9 +1,9 @@
 # Site settings
 title: Huzf's Blog
-SEOTitle: Five的博客 | Five Blog
+SEOTitle: Five的博客 | Five's Blog
 header-img: img/draw-mt.jpg
 email: huzf401@outlook.com
-description: "这个人啥也不会，啥也不懂，啥也不知道"
+description: "這個人除了知道一點點歷史以外，啥也不會，啥也不懂"
 keyword: "Huzf's Blog, Five Blog"
 url: "http://hammerfunctor.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/hammerfunctor/hammerfunctor.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "铁废物一个"
+sidebar-about-description: "鐵廢物本人"
 sidebar-avatar: /img/portrait.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -99,13 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "APS Phys",
-        href: "https://physics.aps.org/"
+        title: "Sci Hub",
+        href: "https://sci-hub.st/"
     },{
         title: "Library Genesis",
         href: "http://gen.lib.rus.ec/"
-    },{
-        title: "Twitter",
-        href: "https://twitter.com/"
     }
 ]
