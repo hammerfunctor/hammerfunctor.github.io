@@ -5,6 +5,9 @@ layout: default
 <!-- Image to hack wechat -->
 <!-- <img src="/img/icon_wechat.png" width="0" height="0"> -->
 <!-- <img src="{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" width="0" height="0"> -->
+<head>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+</head>
 
 <!-- Post Header -->
 <style type="text/css">
@@ -113,7 +116,16 @@ layout: default
                 </div>
                 <!-- disqus 评论框 end -->
                 {% endif %}
-
+                <div id="vcomment"></div>
+                <script>
+                  var valine = new Valine();
+                  valine.init({
+                    el: '#vcomment',
+                    appId: 'q3SAg1q3yztOoPhYVK9lN90l-MdYXbMMI',
+                    appKey: 'VnFQbS5SwzOSjwRj1SI2Ig8c',
+                    placeholder: '在这里✍🏻️评论(在上面填email才能收到回复通知～)'
+                  })
+                </script>
             </div>  
 
     <!-- Side Catalog Container -->
@@ -186,6 +198,7 @@ layout: default
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
+
 <!-- disqus 公共JS代码 end -->
 {% endif %}
 

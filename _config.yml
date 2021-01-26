@@ -11,8 +11,8 @@ github_repo: "https://github.com/hammerfunctor/hammerfunctor.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "鐵廢物本人"
-sidebar-avatar: /img/portrait.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "乱写一通"
+sidebar-avatar: /img/portrait.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
