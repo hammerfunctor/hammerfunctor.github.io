@@ -85,7 +85,7 @@ layout: default
                 </ul>
 
 
-                <!--Gitalk评论start  -->
+                <!-- Gitalk评论start -->
                 {% if site.gitalk.enable %}
                 <!-- 引入Gitalk评论插件  -->
                 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
@@ -116,16 +116,18 @@ layout: default
                 </div>
                 <!-- disqus 评论框 end -->
                 {% endif %}
-                <div id="vcomment"></div>
-                <script>
-                  var valine = new Valine();
-                  valine.init({
-                    el: '#vcomment',
-                    appId: 'q3SAg1q3yztOoPhYVK9lN90l-MdYXbMMI',
-                    appKey: 'VnFQbS5SwzOSjwRj1SI2Ig8c',
-                    placeholder: '在这里✍🏻️评论(不填email则为匿名回复～)'
-                  })
-                </script>
+                
+                <div id="vcomment">
+                  <script>
+                    var valine = new Valine();
+                    valine.init({
+                      el: '#vcomment',
+                      appId: 'q3SAg1q3yztOoPhYVK9lN90l-MdYXbMMI',
+                      appKey: 'VnFQbS5SwzOSjwRj1SI2Ig8c',
+                      placeholder: '在这里✍🏻️评论(不填email则为匿名回复～)'
+                    })
+                  </script>
+                </div>
             </div>  
 
     <!-- Side Catalog Container -->
