@@ -1,17 +1,17 @@
 # Site settings
-title: Huzf's Blog
-SEOTitle: Five的博客 | Five's Blog
+title: 鲨鱼辣椒's Blog
+SEOTitle: 鲨鱼辣椒的博客 | Chili Shark's Blog
 header-img: img/draw-mt.jpg
 email: hammer401@foxmail.com
-description: "這個人除了知道一點點歷史以外，啥也不會，啥也不懂"
-keyword: "Huzf's Blog, Five Blog"
+description: "For your joy"
+keyword: "Chili Shark's Blog"
 url: "http://hammerfunctor.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hammerfunctor/hammerfunctor.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "著名废话制造家，坏脑子的歪理传教士，中部尬王"
+sidebar-about-description: "小镇做题家，杂种体育生，哑巴话唠"
 sidebar-avatar: /img/portrait.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -77,6 +77,7 @@ gitalk:
 # ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
+google_analytics: 'G-JGNP51DZR7'
 #ga_track_id: 'UA-166817878-1'            # Format: UA-xxxxxx-xx
 #ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
