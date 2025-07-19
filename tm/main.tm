@@ -103,7 +103,7 @@
 
 <\initial>
   <\collection>
-    <associate|font-base-size|12>
+    <associate|font-base-size|14>
     <associate|page-height|auto>
     <associate|page-medium|paper>
     <associate|page-type|letter>
