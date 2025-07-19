@@ -1,0 +1,5 @@
+#!/bin/bash
+
+DIR="$(dirname $(realpath $0))"
+
+texmacs -H -x "(tmweb-update-dir \"$DIR/tm\" \"$DIR/html\")"
