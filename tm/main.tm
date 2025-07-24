@@ -36,7 +36,7 @@
     \;
   </hide-preamble>
 
-  <with|font|Euler|Personal Webpage>
+  <doc-data|<doc-title|<with|font|Euler|Personal Webpage>>>
 
   <\wide-tabular>
     <tformat|<cwith|1|1|1|-1|cell-halign|r>|<cwith|1|1|1|2|cell-valign|t>|<cwith|1|1|1|2|cell-halign|l>|<cwith|1|-1|2|2|cell-halign|c>|<table|<row|<\cell>

@@ -32,6 +32,10 @@
     <assign|bok|<macro|left|op|right|\<langle\><arg|left>\|<arg|op>\|<arg|right>\<rangle\>>>
   </hide-preamble>
 
+  <doc-data|<doc-title|Poems>>
+
+  <hrule>
+
   <\quote-env>
     \<#6211\>\<#4ECE\>\<#8349\>\<#5730\>\<#4E0A\>\<#9192\>\<#6765\><next-line>\<#6795\>\<#7740\>\<#4E00\>\<#7247\>\<#68EE\>\<#6797\><next-line>\<#91CE\>\<#9E2D\>\<#5543\>\<#6211\>\<#7684\>\<#624B\>\<#6307\><next-line>\<#5495\>\<#5495\>\<#5728\>\<#8FDC\>\<#5904\>\<#5F39\>\<#7434\>
 

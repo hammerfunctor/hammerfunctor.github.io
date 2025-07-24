@@ -32,6 +32,8 @@
     <assign|bok|<macro|left|op|right|\<langle\><arg|left>\|<arg|op>\|<arg|right>\<rangle\>>>
   </hide-preamble>
 
+  <doc-data|<doc-title|Gallery>>
+
   This is not yet a gallery.
 </body>
 
