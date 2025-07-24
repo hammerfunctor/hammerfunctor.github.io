@@ -36,6 +36,8 @@
     \;
   </hide-preamble>
 
+  <with|font|Euler|Personal Webpage>
+
   <\wide-tabular>
     <tformat|<cwith|1|1|1|-1|cell-halign|r>|<cwith|1|1|1|2|cell-valign|t>|<cwith|1|1|1|2|cell-halign|l>|<cwith|1|-1|2|2|cell-halign|c>|<table|<row|<\cell>
       Zhengfei Hu<next-line>Email: zh22d at fsudot edu<next-line>Office: Keen
