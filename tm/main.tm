@@ -55,9 +55,9 @@
   although as a physicist I rarely work with those I'm not using presently
   (physicists are practical), unless it's fun enough. If things work out, I
   may end up being a professional physics worker (no matter what that means).
-  I'm not opposed to work on things other than math and physics if I have to.
-  Doing theoretical physics is literally like doing arts. All you need is a
-  little bit of math and a lot of imaginations.
+  I enjoy swimming in the sea of physics, with a little bit of math and a lot
+  of imaginations. I'm also not opposed to work on things other than math and
+  physics if I have to.
 
   I write <em|Chinese> poems (<hlink|here|poems.tm> are some recent ones). I
   climb on the wall.
@@ -67,18 +67,19 @@
   (HPC lisp), mathematica (remote relative of lisp) and zig (the only nonlisp
   that I can suffer doing on a daily basis).
 
-  I'm use emacs and <TeXmacs> most of time when I'm with my laptop (besides
+  I play emacs and <TeXmacs> most of time when I'm with my laptop (besides
   browsers of course :). I develop for TeXmacs at some of my spare time
   (mostly on lisp side, I rarely touch its cpp codebase).
 
-  I use emacs org files to manage and tangle configurations of emacs itself,
-  <TeXmacs>, my mailing system (basically msmtp, notmuch and mbsync, with
-  some aid programs) and various lite configurations of my laptop. With emacs
-  I rarely need to recall which file is stored within which directory. Emacs
-  remembers everything for me. I also use a single org file to write weekly
-  summary of my research, an email will composed out of each section and sent
-  to my advisor after I finish it. I also use emacs to create and edit toc
-  for PDF and DJVU files (books).
+  Emacs is fun to play with and brings me something useful. I use emacs org
+  files to manage and tangle configurations of emacs itself, <TeXmacs>, my
+  mailing system (basically msmtp, notmuch and mbsync, with some aid
+  programs) and various lite configurations of my laptop. Emacs remembers for
+  me every single one of my project files, recordings, diaries and things I
+  don't even recall so that I don't need to memorize anything. I also use a
+  single org file to write weekly summary of my research, an email will
+  composed out of each section and sent to my advisor after I finish it. I
+  also use emacs to create and edit toc for PDF and DJVU files (books).
 
   <TeXmacs> is a WYSIWYG (what you see is what you get) editor that help you
   write math-heavy articles. It is developed by Joris van der Hoeven and
@@ -87,7 +88,7 @@
   focused. Not to mention that, just like emacs, one can easily manipulate
   <TeXmacs> via a lisp machine. BTW this website is written in <TeXmacs>. See
   <hlink|official site|https://www.texmacs.org>, <hlink|Joris'
-  blog|https://www.texmacs.org/joris/main/joris.html>, <hlink|slowpill
+  blog|https://www.texmacs.org/joris/main/joris.html>, <hlink|slowphil
   (Philippe Joyez)'s many builds|https://build.opensuse.org/project/show/home:slowphil:texmacs-devel>,
   <hlink|user-contributed contents|https://github.com/texmacs/tm-forge>,
   <hlink|Max's blog|https://mgubi.github.io>,
