@@ -30,9 +30,30 @@
     <assign|ketbra|<macro|x|y|\|<arg|x>\<rangle\>\<langle\><arg|y>\|>>
 
     <assign|bok|<macro|left|op|right|\<langle\><arg|left>\|<arg|op>\|<arg|right>\<rangle\>>>
+
+    <assign|nl|<next-line>>
   </hide-preamble>
 
   <doc-data|<doc-title|Poems>>
+
+  <hrule>
+
+  <paragraph|\<#96E8\>\<#6EF4\>\<#8BF7\>\<#7B49\>\<#4F1A\>\<#518D\>\<#6765\>>
+
+  <\quote-env>
+    \<#82A6\>\<#82C7\>\<#4ECE\>\<#6E56\>\<#5E95\>\<#904D\>\<#5E03\>\<#7684\>\<#6D77\>\<#5E26\>\<#95F4\>\<#5F80\>\<#5916\>\<#94BB\><next-line>\<#8718\>\<#86DB\>\<#5728\>\<#6C34\>\<#9762\>\<#4E0A\>\<#7ED3\>\<#7F51\><next-line>\<#58C1\>\<#864E\>\<#4E0D\>\<#505C\>\<#6363\>\<#4E71\><next-line>\<#868A\>\<#5B50\>\<#4E0B\>\<#7684\>\<#86CB\>\<#65CB\>\<#5373\>\<#6210\>\<#4E86\>\<#9752\>\<#82D7\>\<#7684\>\<#665A\>\<#9910\>
+
+    \<#86D9\>\<#65CF\>\<#7684\>\<#767E\>\<#9999\>\<#679C\>\<#5728\>\<#8E66\>\<#8FEA\><value|nl>\<#9E1F\>\<#7C7B\>\<#7684\>\<#767D\>\<#91D1\>\<#7684\>\<#8DF3\>\<#4F1E\><value|nl>\<#6211\>\<#7684\>\<#8377\>\<#53F6\>\<#8FD8\>\<#6CA1\>\<#7A7F\>\<#597D\>\<#8863\>\<#670D\><value|nl>\<#6240\>\<#4EE5\>\<#96E8\>\<#6EF4\>\<#8BF7\>\<#7B49\>\<#4F1A\>\<#518D\>\<#6765\>
+
+    \;
+
+    [\<#96E8\>\<#6EF4\>\<#8BF7\>\<#7B49\>\<#4F1A\>\<#518D\>\<#6765\>]
+
+    \<#6715\>\<#4E59\>
+
+    \<#4E8C\>\<#3007\>\<#4E8C\>\<#4E94\>\<#5E74\>\<#5341\>\<#6708\>\<#4E09\>\<#65E5\>
+    \<#4E8E\> \<#70ED\>\<#60C5\>\<#5927\>\<#697C\>
+  </quote-env>
 
   <hrule>
 
@@ -63,6 +84,8 @@
   </quote-env>
 
   <hrule>
+
+  \;
 </body>
 
 <\initial>
@@ -74,3 +97,19 @@
     <associate|page-width|auto>
   </collection>
 </initial>
+
+<\references>
+  <\collection>
+    <associate|auto-1|<tuple|1|1>>
+  </collection>
+</references>
+
+<\auxiliary>
+  <\collection>
+    <\associate|toc>
+      <with|par-left|<quote|3tab>|\<#96E8\>\<#6EF4\>\<#8BF7\>\<#7B49\>\<#4F1A\>\<#518D\>\<#6765\>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-1>>
+    </associate>
+  </collection>
+</auxiliary>
