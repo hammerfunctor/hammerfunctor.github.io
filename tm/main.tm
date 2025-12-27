@@ -1,6 +1,6 @@
 <TeXmacs|2.1.4>
 
-<style|<tuple|article|preview-ref|smart-ref|framed-theorems|padded-paragraphs|number-long-article|web.ts>>
+<style|<tuple|article|preview-ref|smart-ref|framed-theorems|padded-paragraphs|number-long-article|web>>
 
 <\body>
   <\hide-preamble>
@@ -30,13 +30,10 @@
     <assign|ketbra|<macro|x|y|\|<arg|x>\<rangle\>\<langle\><arg|y>\|>>
 
     <assign|bok|<macro|left|op|right|\<langle\><arg|left>\|<arg|op>\|<arg|right>\<rangle\>>>
-
-    <assign|html-css|../res/theme-colored.css>
-
-    \;
   </hide-preamble>
 
-  <doc-data|<doc-title|<with|font|Euler|Personal Webpage of Zhengfei Hu>>>
+  <doc-data|<doc-title|<with|font|Euler|Zhengfei Hu>>|<doc-subtitle|Personal
+  Webpage>>
 
   <\wide-tabular>
     <tformat|<cwith|1|1|1|-1|cell-halign|r>|<cwith|1|1|1|2|cell-valign|t>|<cwith|1|1|1|2|cell-halign|l>|<cwith|1|-1|2|2|cell-halign|c>|<table|<row|<\cell>
@@ -51,40 +48,37 @@
 
   \;
 
-  I do theoretical physics. I always enjoying doing and learning math,
-  although as a physicist I rarely work with those I'm not using presently
-  (physicists are practical), unless it's fun enough. If things work out, I
-  may end up being a professional physics worker (no matter what that means).
-  I enjoy swimming in the sea of imaginations. I'm also not opposed to work
-  on things other than math and physics if I have to.
+  I do physics for interesting phenomena. I do math for fun of ways to
+  organize physics, and sometimes for fun of its own. I enjoy problems that I
+  can swim with \ imaginations. My primary interest as of now is in
+  descriptions and understandings of Fermi liquids, through some mysteries of
+  bosonization. If things work out, I may end up being a professional physics
+  worker, no matter what that means.
 
   I write <em|Chinese> poems (<hlink|some recent ones|poems.tm>). I climb on
-  the wall. I play <hlink|Age of Empire 2|https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/>.
-  I play with and hack emacs and <TeXmacs>.
+  the wall. I play <hlink|Age of Empires 2|https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/>.
+  I enjoy programming and playing with computer systems, e.g. systemd suite
+  of Linux, and lisp machines of emacs and <TeXmacs>.\ 
 
-  I write programs that simplify things for me, or just for fun occasionally.
-  I enjoy working with lisp (guile for TeXmacs and elisp for emacs), julia
-  (HPC lisp), mathematica (remote relative of lisp) and zig (the only nonlisp
-  that I can tolerate doing on a daily basis). I made
-  <hlink|tm-mathematica|https://github.com/hammerfunctor/tm-mathematica> (a
-  mathematica plugin for TeXmacs), <hlink|zdocscan|https://github.com/hammerfunctor/zdocscan>
-  (used to make high-quality vectorized PDF or tiny-sized DJVU out of bad
-  phone-taken photos).
-
-  <TeXmacs> is a WYSIWYG (what you see is what you get) editor that help you
-  write math-heavy articles. It is developed by Joris van der Hoeven and
-  others since the late 90s and it is <strong|NOT> an interface to <LaTeX>.
-  Writing things in <TeXmacs> is not only more fun, but make you stay
-  focused. Not to mention that, just like emacs, one can easily manipulate
-  <TeXmacs> via a lisp machine. I write most of my notes and stuff, incluing
-  this website, in <TeXmacs> and export to other formats. For more info, see
-  <hlink|official site|https://www.texmacs.org>, <hlink|Joris'
+  I contribute casually to <TeXmacs>. I made
+  <hlink|tm-mathematica|https://github.com/hammerfunctor/tm-mathematica>, a
+  Mathematica/WolframEngine plugin for <TeXmacs>. <small|<TeXmacs> is a
+  WYSIWYG (what you see is what you get) editor that help you write
+  math-heavy articles. It is developed by Joris van der Hoeven and others
+  since the late 90s and it is <strong|NOT> an interface to <LaTeX>. Writing
+  in <TeXmacs> is enjoyable and make me concentrate. Not to mention that,
+  just like emacs, one can easily manipulate <TeXmacs> via a lisp machine. I
+  write most of my digital notes and stuff, incluing this website, in
+  <TeXmacs> and export to other formats. For more info, see <hlink|official
+  site|https://www.texmacs.org>, <hlink|Joris'
   blog|https://www.texmacs.org/joris/main/joris.html>, <hlink|slowphil
   (Philippe Joyez)'s many builds|https://build.opensuse.org/project/show/home:slowphil:texmacs-devel>,
   <hlink|user-contributed contents|https://github.com/texmacs/tm-forge>,
   <hlink|Max's blog|https://mgubi.github.io>,
   <hlink|forum|http://forum.texmacs.cn/>, <hlink|youtube
-  videos|https://www.youtube.com/results?search_query=texmacs>.
+  videos|https://www.youtube.com/results?search_query=texmacs>.>
+
+  \;
 </body>
 
 <\initial>

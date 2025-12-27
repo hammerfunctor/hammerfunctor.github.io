@@ -1,6 +1,6 @@
 <TeXmacs|2.1.4>
 
-<style|<tuple|article|preview-ref|smart-ref|framed-theorems|padded-paragraphs|number-long-article|web.ts>>
+<style|<tuple|article|preview-ref|smart-ref|framed-theorems|padded-paragraphs|number-long-article|web>>
 
 <\body>
   <\hide-preamble>
